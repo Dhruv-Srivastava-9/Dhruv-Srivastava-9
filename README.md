@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dhruv-Srivastava-9
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Pytohn
-- 💞️ I’m looking to collaborate on COmputer Science
+- 🌱 I’m currently learning Deep Learning with PyTorch
+- 💞️ I’m looking to collaborate on Computer Science
 - 📫 How to reach me menamestrunk@gmail.com
 
 <!---
