@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhruv-Srivastava-9
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning PyTorch
 - 💞️ I’m looking to collaborate on Computer Science
 - 📫 How to reach me menamestrunk@gmail.com
 
